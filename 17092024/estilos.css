@@ -1,0 +1,64 @@
+@font-face {
+    font-family: Send_box;
+    src: url(./Recursos/Fuentes/Mister\ Grape\ -\ Personal\ Use.otf);
+}
+
+
+
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,20,1) 31%, rgba(0,212,255,1) 100%);
+}
+.p{
+    color: lightseagreen;
+    font-size: 20px;
+}
+.fondoBlanco{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,20,1) 31%, rgba(0,212,255,1) 100%);
+}
+.fondoAzul{
+    background-color: deepskyblue;
+}
+.fondoNegro{
+    background-color: black;
+}
+
+.imagen{
+    width: 180px;
+
+}
+.texto1{
+    text-align: center;
+    font-size: 3em;
+    color: deeppink ;
+}
+
+.texto2{
+    font-size: 1em;
+    color: white;
+    text-align: justify;
+}
+.separacion{
+    padding: 1em;
+    background-color: orange;
+}
+.texto3{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.texto4{
+    text-align: center;
+    font-size: 1em;
+    color: black;
+}
+
+.borde{
+    border: 10px solid white;
+    border-radius: 10px;
+}
+.bordeAzul{
+    border: 2px solid deepskyblue;
+    border-radius: 5px;
+
+}
